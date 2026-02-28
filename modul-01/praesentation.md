@@ -18,14 +18,35 @@ Dozent: Arno Schimmelpfennig
 
 ---
 
-### Folie 3: Heute trainieren wir
+### Folie 3: Zentrale Botschaft (SALA-Verbesserung #4)
+> 🎯 **"Sie können das – Schritt für Schritt, in Ihrem Tempo, mit unserer Hilfe."**
+
+*Diese Botschaft begleitet uns durch alle 6 Module.*
+
+---
+
+### Folie 4: Heute trainieren wir
 - 🔧 **Strukturieren** – Mein Gerät verstehen (Homescreen, Apps, Einstellungen)
 - 🔗 **Verknüpfen** – Digitale Welt mit meinem Alltag verbinden
 - ✂️ **Reduzieren** – Die 3 wichtigsten Dinge, die ich heute lerne
 
 ---
 
-### Folie 4: Was kann mein Gerät?
+### Folie 5: SCQA – Bewusste Inkompetenz erzeugen (SALA-Verbesserung #1)
+
+**Situation:** Sie haben ein Smartphone. Es kann telefonieren und Fotos machen.
+
+**Complication:** Aber was ist mit Arzttermine buchen, Zugtickets kaufen, mit den Enkeln videotelefonieren, Bankgeschäfte erledigen?
+
+**Question:** Wie kommen wir von "Ich kann telefonieren" zu "Ich kann alles, was ich brauche"?
+
+**Answer:** Genau das trainieren wir – heute und in den nächsten 5 Modulen.
+
+*💡 Dozenten-Hinweis: Hier bewusst 30 Sekunden Stille lassen. Die TN spüren die Lücke zwischen Können und Wollen.*
+
+---
+
+### Folie 6: Was kann mein Gerät?
 **3 Dinge, die Sie überraschen werden:**
 1. Ihr Smartphone ist leistungsfähiger als der Computer, der die Mondlandung gesteuert hat
 2. Sie können damit Bücher lesen, Musik hören und Videoanrufe machen – gleichzeitig
@@ -33,9 +54,9 @@ Dozent: Arno Schimmelpfennig
 
 ---
 
-### Folie 5: Grundbegriffe
+### Folie 7: Grundbegriffe
 | Begriff | Bedeutung | Beispiel |
-|---------|-----------|--------|
+|---------|-----------|----------|
 | App | Programm auf dem Smartphone | WhatsApp, Wetter-App |
 | WLAN | Drahtloses Internet zu Hause | Verbindung zum Router |
 | Touchscreen | Bildschirm zum Berühren | Tippen, Wischen, Zoomen |
@@ -43,7 +64,7 @@ Dozent: Arno Schimmelpfennig
 
 ---
 
-### Folie 6: Basis-Modus Übung
+### Folie 8: Basis-Modus Übung
 **Pflicht (alle machen mit):**
 - App Store / Play Store öffnen
 - Nach "Wetter" suchen
@@ -55,20 +76,49 @@ Dozent: Arno Schimmelpfennig
 
 ---
 
-### Folie 7: Die 3 Goldenen Regeln
+### Folie 9: Industry-Translation – Ihr Alltag wird digital (SALA-Verbesserung #2)
+**Übung: Finden Sie IHREN Anwendungsfall**
+
+Bitte vervollständigen Sie:
+> "Im Alltag nervt mich ____________, das könnte ich digital lösen mit ____________."
+
+**Beispiele zur Inspiration:**
+| Alltagsproblem | Digitale Lösung |
+|----------------|----------------|
+| Arzt hat keine Termine frei | Online-Terminbuchung (Doctolib) |
+| Busfahrplan unklar | VGN App mit Echtzeit |
+| Enkel wohnen weit weg | Videoanruf (WhatsApp/FaceTime) |
+| Zeitung wird teurer | Nachrichtenportal / Mediathek |
+
+*💡 Dozenten-Hinweis: TN-Antworten an Tafel sammeln. Diese Liste wird in Modul 6 wieder aufgegriffen!*
+
+---
+
+### Folie 10: Die 3 Goldenen Regeln
 1. 🔑 **Passwörter:** Lang ist besser als kompliziert. Nie dasselbe zweimal.
 2. 🔗 **Links:** Nicht klicken, wenn unerwartet. Im Zweifel: direkt zur Website.
 3. 📞 **Anrufe:** Bank und Polizei fragen NIE nach Passwort oder Geld am Telefon.
 
 ---
 
-### Folie 8: Mein Commitment
-> **"Diese Woche probiere ich ________________ auf meinem Gerät aus."**
-> *(Zeitpunkt: __________ Uhr, max. 10 Minuten)*
+### Folie 11: Mein Commitment
+> **"Diese Woche probiere ich _________________ auf meinem Gerät aus."**
+> (Zeitpunkt: __________ Uhr, max. 10 Minuten)
 
 ---
 
-### Folie 9: Nächste Woche
+### Folie 12: Gratitude-Runde (SALA-Verbesserung #5)
+**Ritual zum Abschluss (wird in jedem Modul wiederholt):**
+
+> 🙏 "Eine Sache, die ich heute gelernt habe und wofür ich dankbar bin: ____________"
+
+*Reihum, jeder TN sagt einen Satz. Dozent beginnt als Vorbild.*
+
+*💡 Dozenten-Hinweis: Dieses Ritual verankert positive Emotionen und erhöht die Wiederkehrquote nachweislich.*
+
+---
+
+### Folie 13: Nächste Woche
 **Modul 2: Sicher unterwegs – Passwörter, Einstellungen, Datenschutz**
 Bringen Sie bitte mit: Ihr Smartphone + Ladekabel
 
